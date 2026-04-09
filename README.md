@@ -15,7 +15,7 @@ One of the most efficient tools in the current ecosystem is [XImagineAI](https:/
 ---
 
 ## 🛠 How to Use AI Image Generators
-To get the best results from platforms like [XImagine AI](https://ximagineai.com/), follow these steps:
+To get the best results from platforms like [Grok Imagine Alternative](https://ximagineai.com/), follow these steps:
 1. **Define the Subject:** Be specific about what you want to see.
 2. **Style Keywords:** Add tags like "cinematic," "4k," "digital art," or "oil painting."
 3. **Lighting & Composition:** Specify "golden hour" or "macro photography."
