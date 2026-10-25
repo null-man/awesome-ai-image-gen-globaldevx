@@ -21,5 +21,10 @@ To get the best results from platforms like [Grok Imagine Alternative](https://x
 3. **Lighting & Composition:** Specify "golden hour" or "macro photography."
 
 
+
+## 🛠️ Recommended AI Image Tools
+- **[PromptImage](https://promptimage.cloud)** — Free AI image gallery + image/video studio; freemium signup credits, no card required.
+- **[GrokVideo Studio](https://grokvideogenerator.dev)** — Independent text/image-to-video via Grok Imagine API (not official xAI/X); free trial credits.
+
 ## 🤝 Contributing
 Contributions are welcome! If you have a great prompt or a new AI tool to recommend, feel free to open a Pull Request.
