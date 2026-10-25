@@ -25,6 +25,9 @@ To get the best results from platforms like [Grok Imagine Alternative](https://x
 ## 🛠️ Recommended AI Image Tools
 - **[PromptImage](https://promptimage.cloud)** — Free AI image gallery + image/video studio; freemium signup credits, no card required.
 - **[GrokVideo Studio](https://grokvideogenerator.dev)** — Independent text/image-to-video via Grok Imagine API (not official xAI/X); free trial credits.
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok). `Paid`
+- **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99). `Paid`
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99). `Paid`
 
 ## 🤝 Contributing
 Contributions are welcome! If you have a great prompt or a new AI tool to recommend, feel free to open a Pull Request.
